@@ -11,7 +11,7 @@ React is a JavaScript library.
 * Fast! Use of Virtual DOM to compare current view with modified view (after user interaction) to find what requires repainting.
 * Reusable! Component focused development.
 * Uni directional data flow.
-* Easy and performing coding with <a href='./../jsx/readme.md'>JSX</a>. 
+* Easy and performing coding with <a href='./../jsx/readme.md'>JSX</a>.
 
 > **JSX** gets converted to optimal JavaScript code resulting in performing code.
 
@@ -29,3 +29,13 @@ React is a JavaScript library.
 
 * Creating Native or web application
 * To create reusable Component
+
+## Minimum knowledge required to write good app
+
+* React
+* ES6
+* JSX
+* Babel
+* Webpack
+* FLUX or REDUX
+* HTML, CSS and JavaScript

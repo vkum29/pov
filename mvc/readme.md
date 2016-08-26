@@ -21,9 +21,6 @@ MVC is an acronym for **M**odel **V**iew **C**ontroller
 * A controller triggers appropriate method of model based on action in view.
 * Controllers informs view in case of changes in model/data.
 
-
-## Why MVC
-
 ## Pros
 
 ## Cons
