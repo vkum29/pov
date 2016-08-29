@@ -33,9 +33,15 @@ React is a JavaScript library.
 ## Minimum knowledge required to write good app
 
 * React
-* ES6
-* JSX
+* <a href='./es6/readme.md'>ES6</a>
+* <a href='./jsx/readme.md'>JSX</a>
 * Babel
 * Webpack
-* FLUX or REDUX
+* FLUX, REDUX etc
 * HTML, CSS and JavaScript
+
+
+## In action
+<a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
+Snapshot:
+<img src='https://github.com/vkum29/react-dev-list/blob/master/app-snapshot.png'/>
