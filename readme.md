@@ -10,3 +10,4 @@
 - <a href='./es6/readme.md'>ES6</a>
 - <a href='./flux/readme.md'>FLUX</a>
 - <a href='./angular 2.0/readme.md'>Angular 2.0</a>
+- <a href='./typescript/readme.md'>TypeScript</a>
