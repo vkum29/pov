@@ -1,6 +1,6 @@
 # <a href='./../readme.md'>POV</a> > React
 
-React is a JavaScript library.
+React(v15.3.1) is a JavaScript library.
 
 * It's used to implement View of <a href='./../mvc/readme.md'>MVC</a> framework
 
@@ -23,7 +23,7 @@ React is a JavaScript library.
 * Complex to write with pure JavaScript and html
 * Insufficient in alone as it serves view requires other libraries to complete application architecture.
 
-> **FLUX** or **REDUX** guidelines help in writing efficient code.
+> **<a href='./../flux/readme.md'>FLUX</a>** or **REDUX** guidelines help in writing efficient code.
 
 ## Applications
 
@@ -33,15 +33,34 @@ React is a JavaScript library.
 ## Minimum knowledge required to write good app
 
 * React
-* <a href='./es6/readme.md'>ES6</a>
-* <a href='./jsx/readme.md'>JSX</a>
+* <a href='./../es6/readme.md'>ES6</a>
+* <a href='./../jsx/readme.md'>JSX</a>
 * Babel
 * Webpack
-* FLUX, REDUX etc
+* <a href='./../flux/readme.md'>FLUX</a>, REDUX etc
 * HTML, CSS and JavaScript
 
 
 ## In action
-<a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
-Snapshot:
-<img src='https://github.com/vkum29/react-dev-list/blob/master/app-snapshot.png'/>
+
+- <del> 
+  <a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
+  <br/>
+  <a href='https://github.com/vkum29/react-dev-list'>
+    <img src='https://github.com/vkum29/react-dev-list/blob/master/app-snapshot.png' width=200px/>
+  </a>
+</del>
+
+- <a href='https://github.com/vkum29/todo-react'> React, Flux Hands on Todo application </a>
+ <br/>
+<a href='https://github.com/vkum29/todo-react'>
+  <img src="https://github.com/vkum29/todo-react/blob/Flux/todo-react.png" width=200px/>
+</a> 
+
+
+
+## You might also be interested in
+
+- <a href='./../flux/readme.md'>FLUX</a>
+- <a href='./../jsx/readme.md'>JSX</a>
+- <a href='./practice.md'>Practice Guide</a>
