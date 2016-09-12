@@ -47,14 +47,14 @@ React(v15.3.1) is a JavaScript library.
   <a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
   <br/>
   <a href='https://github.com/vkum29/react-dev-list'>
-    <img src='https://github.com/vkum29/react-dev-list/blob/master/app-snapshot.png' width=200px/>
+    <img src='https://raw.githubusercontent.com/vkum29/react-dev-list/master/app-snapshot.png' width=200px />
   </a>
 </del>
 
 - <a href='https://github.com/vkum29/todo-react'> React, Flux Hands on Todo application </a>
  <br/>
 <a href='https://github.com/vkum29/todo-react'>
-  <img src="https://github.com/vkum29/todo-react/blob/Flux/todo-react.png" width=200px/>
+  <img src="https://raw.githubusercontent.com/vkum29/todo-react/Flux/todo-react.png" width=200px />
 </a> 
 
 
