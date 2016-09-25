@@ -2,7 +2,7 @@
 
 Tips for writing React(version 0.15) code
 
-- Break your app into small composable view
+- Break your app into smaller compossible views
 
 Eg.
   Heading
@@ -30,10 +30,10 @@ Transpiler like Babel with 71% support for es6 can be used for older browsers li
 
 - React component name starts with uppercase this distinguishes html element(starting with lower case).
 
-- Keep DATA in one place (Somethign like STORE mentioned in FLUX pattern)
+- Keep DATA in one place (Something like STORE mentioned in FLUX pattern)
 
 - Try to minimize writing to scope and use dynamic calculations in ReactClass's render function.
-  Code wrtten inside render always gets executed when component is render
+  Code written inside render always gets executed when component is render
 
 Eg Temporary data manipulation etc
 
@@ -45,7 +45,7 @@ Eg Temporary data manipulation etc
       Todos = this.filter((item)=>{
         return !item.isComplete;
       });
-      
+
       /* Get markup*/
       Todos.map((item)=>{
         return <li className="todo-item">item.desc</li>
@@ -58,7 +58,7 @@ Eg Temporary data manipulation etc
     }
   }
 
-- Use LifeCycle Hooks like componentWillMount to attach/bind events and componentWillUnMount to deattach events if any
+- Use LifeCycle Hooks like componentWillMount to attach/bind events and componentWillUnMount to detach events if any
 
 - bind this to function in constructor once this will avoid binding it every where
 eg
@@ -73,4 +73,4 @@ eg
     ...
   }
 
-- We can use shouldComponentUpdate to hook decision for dom rendering returning false will not render any changes in state to DOM.
+- We can use shouldComponentUpdate to hook decision for DOM rendering returning false will not render any changes in state to DOM.

@@ -1,8 +1,8 @@
 # <a href='./../readme.md'>POV</a> > <a href='./readme.md'>React</a> > REDUX
 
-REDUX is another pattern to create application using React. 
+REDUX is another pattern to create application using React.
 
-Redux uses immutable js to provide non modified state. Idea is never to modify existing state but to always create new state representing current form. This becomes more fruitful in application where one needs to quickly switch between various state of application.
+Redux uses immutable javascript to provide non modified state. Idea is never to modify existing state but to always create new state representing current form. This becomes more fruitful in application where one needs to quickly switch between various state of application.
 
 * It's a commonly used guideline for React.
 
@@ -14,17 +14,17 @@ Redux uses immutable js to provide non modified state. Idea is never to modify e
 
 * TO be applied in application where we need stack of current and previous state of application.
 
-Redux applicaiton components
+Redux application components
 
 ## Action - Event Directory ~ similar to FLUX
 
 - These events are sent to reducers for handling
 - Action are triggered mostly from Components
 
-## Reducers - State creator 
+## Reducers - State creator
 
 - Handles actions
-- Creates new data to repersent state
+- Creates new data to represent state
 - Forward this new data to store.
 - In flux reducers doesn't exist and store does this job too.
 - There is main reducer which simply dispatches events to each reducers creating new state.
@@ -33,7 +33,7 @@ Redux applicaiton components
 
 ## Stores - Data (collection) ~ Similar to FLUX
 
-- Stores the data representing the state of applicaiton
+- Stores the data representing the state of application
 - Informs Providers of state change.
 - In flux state changes are forwarded to React Components as we don't have providers.
 
@@ -62,5 +62,11 @@ Components are properly categorized into smart component and dumb component
 
 ### Dumb Component
 
-- Takes a format of data and works on it and does not know which framwork is being used.
+- Takes a format of data and works on it and does not know which framework is being used.
 - Works purely on props passed to it.
+
+## In action
+
+<a href='https://github.com/vkum29/todo-list-react/blob/redux'>To-do React app</a>
+
+- Snapshot: <img src='https://github.com/vkum29/todo-list-react/blob/redux/app-snapshot.png' width=200 height=200/>

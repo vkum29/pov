@@ -3,7 +3,7 @@
 FLUX is architectural guideline for client-side web application.
 
 * It's common guideline used with React.
-* It complements React's composable view components by utilizing a unidirectional data flow.
+* It complements React's compossible view components by utilizing a unidirectional data flow.
 
 ## Pros
 
@@ -16,11 +16,11 @@ Flux pattern revolves around four things
 
 - Dispatches Events to the Dispatcher
 
-> Uses Dispatcher.dispatch to notify dispatcher about which event occured
+> Uses Dispatcher.dispatch to notify dispatcher about which event occurred
 
 ## Components - React components
 
-- Composable views created using react.
+- Compossible views created using react.
 
 > Made using React.createClass or React.component
 
@@ -28,7 +28,7 @@ Flux pattern revolves around four things
 
 - Listens to all dispatched events but acts on specific as needed
 
-> Uses Dispatcher.register to start reciving events
+> Uses Dispatcher.register to start receiving events
 
 - Class storing and updating data and inform's component whenever data changes
 
@@ -42,11 +42,10 @@ Flux pattern revolves around four things
 
 > Creates a new instance of simple Flux dispatcher
 
-Dispatcher is the only function made avilable in flux npm and that is all we need to convert our simple react views to flux based application.
+Dispatcher is the only function made available in flux npm and that is all we need to convert our simple react views to flux based application.
 
 ## In action
 
 <a href='https://github.com/vkum29/todo-list-react'>To-do React app</a>
 
 - Snapshot: <img src='https://github.com/vkum29/todo-list-react/blob/flux/app-snapshot.png' width=200 height=200/>
-
