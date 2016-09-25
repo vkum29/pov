@@ -23,7 +23,7 @@ React(v15.3.1) is a JavaScript library.
 * Complex to write with pure JavaScript and html
 * Insufficient in alone as it serves view requires other libraries to complete application architecture.
 
-> **<a href='./../flux/readme.md'>FLUX</a>** or **REDUX** guidelines help in writing efficient code.
+> **<a href='./flux.md'>FLUX</a>** or **<a href='./redux.md'>REDUX</a>** guidelines help in writing efficient code.
 
 ## Applications
 
@@ -37,30 +37,31 @@ React(v15.3.1) is a JavaScript library.
 * <a href='./../jsx/readme.md'>JSX</a>
 * Babel
 * Webpack
-* <a href='./../flux/readme.md'>FLUX</a>, REDUX etc
+* <a href='./flux.md'>FLUX</a>, <a href='./redux.md'>REDUX</a> etc
 * HTML, CSS and JavaScript
 
 
 ## In action
 
 - <del> 
-  <a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
-  <br/>
-  <a href='https://github.com/vkum29/react-dev-list'>
-    <img src='https://raw.githubusercontent.com/vkum29/react-dev-list/master/app-snapshot.png' width=200px />
-  </a>
-</del>
+    <a href='https://github.com/vkum29/react-dev-list'>React app</a> to add and remove a user data with role and experience
+    <br/>
+    <a href='https://github.com/vkum29/react-dev-list'>
+      <img src='https://raw.githubusercontent.com/vkum29/react-dev-list/master/app-snapshot.png' width=200px />
+    </a>
+  </del>
 
 - <a href='https://github.com/vkum29/todo-react'> React, Flux Hands on Todo application </a>
- <br/>
-<a href='https://github.com/vkum29/todo-react'>
-  <img src="https://raw.githubusercontent.com/vkum29/todo-react/Flux/todo-react.png" width=200px />
-</a> 
+  <br/>
+  <a href='https://github.com/vkum29/todo-react'>
+    <img src="https://raw.githubusercontent.com/vkum29/todo-react/Flux/todo-react.png" width=200px />
+  </a> 
 
 
 
 ## You might also be interested in
 
-- <a href='./../flux/readme.md'>FLUX</a>
+- <a href='./flux.md'>FLUX</a>
+- <a href='./redux.md'>REDUX</a>
 - <a href='./../jsx/readme.md'>JSX</a>
 - <a href='./practice.md'>Practice Guide</a>
