@@ -46,6 +46,6 @@ Dispatcher is the only function made available in flux npm and that is all we ne
 
 ## In action
 
-<a href='https://github.com/vkum29/todo-list-react'>To-do React app</a>
+<a href='https://github.com/vkum29/todo-react/tree/Flux'>To-do React app</a>
 
-- Snapshot: <img src='https://github.com/vkum29/todo-list-react/blob/flux/app-snapshot.png' width=200 height=200/>
+- Snapshot: <img src='https://github.com/vkum29/todo-react/blob/Flux/todo-react.png' width=200 height=200/>

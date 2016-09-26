@@ -67,6 +67,6 @@ Components are properly categorized into smart component and dumb component
 
 ## In action
 
-<a href='https://github.com/vkum29/todo-list-react/blob/redux'>To-do React app</a>
+<a href='https://github.com/vkum29/todo-react/tree/Redux'>To-do React app</a>
 
-- Snapshot: <img src='https://github.com/vkum29/todo-list-react/blob/redux/app-snapshot.png' width=200 height=200/>
+- Snapshot: <img src='https://github.com/vkum29/todo-react/blob/Redux/todo-react.png' width=200 height=200/>
